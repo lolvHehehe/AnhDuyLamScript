@@ -2,7 +2,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/datbucukhoi/Ui-Speed
 
        local Window = MakeWindow({
          Hub = {
-         Title = "TBoy Roblox",
+         Title = "Khôi mập",
          Animation = " Duy đep zai script"
          },
         Key = {
